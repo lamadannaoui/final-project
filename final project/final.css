@@ -1,0 +1,337 @@
+.nav-link {
+  color: rgb(249, 243, 243) !important;
+  padding-top: 70px;
+}
+
+.nav-link:hover {
+  text-decoration: none !important;
+  border-bottom: 2px solid red !important;
+  color: rgb(238, 232, 232) !important;
+}
+
+.nav-item{
+  padding-top: 30px;
+  padding-left: 10px;
+}
+
+.nav.justify-content-center {
+  background-image: url("Untitled.png");
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: 0 0;
+  width: 100%;
+  height: 100vh;
+  margin: 0;
+  padding: 0;
+  position: relative;
+}
+
+.container {
+  position: absolute;
+  top: 50%;
+  left: 50px;
+  transform: translateY(-135%);
+  text-align: left; 
+  padding-left: 140px !important;
+  margin-top: 15px;
+}
+.btn{
+  border-radius: 20pt !important;
+padding-top: 0px;
+  padding-left: 40px !important;
+  padding-right: 40px !important;
+ 
+}
+.tl {
+  text-align: center;
+  
+}
+.tl img {
+  max-height:572px;
+  max-width:500px;
+  float: right;
+  margin-right: 159px;
+
+}
+.row{
+  padding-left: 115px;
+  padding-top: -25px;
+  
+}
+
+#carouselExampleCaptions .carousel-item {
+  width: 90%;
+  margin: 0 auto;
+  padding: 20px;
+}
+
+.carousel-container {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+.carousel-item img {
+  width: 320px;
+  height: 400px;
+  object-fit: cover;
+}
+
+.carousel-container i {
+  font-size: 2rem;
+}
+
+.carousel-container i:first-child {
+  margin-right: -200px;
+  color: #bab4b4;
+}
+
+.carousel-container i:last-child {
+ color: #8c8888;
+  margin-right: 80px;
+}
+
+
+.close{
+  background-image: url("Rectangle\ 73.png");
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: 0 0;
+  width: 100%;
+  height: 100vh;
+  margin: 0;
+  padding: 0;
+  position: relative;
+  z-index: 0;
+}
+
+.hello{
+  position: relative;
+  
+  top: 50%;
+  left: 50px;
+  transform: translateY(-155%) !important;
+  text-align: left; 
+  padding-left: 640px !important;
+  margin-top: -325px;
+}
+
+
+.carousel-item img {
+  border-radius: 10%;
+  /*margin-right: 10px;*/
+  width: 100px !important;
+  height: 100px;
+}
+
+.carousel {
+  margin: auto;
+  max-width: 900px;
+  margin-top: 15px;
+}
+.hello {
+  font-size: 24px;
+  color: #111010;
+}
+
+.ellipsis {
+  color: rgb(216, 24, 24);
+}
+.col-md-3 {
+  position: relative;
+}
+
+.col-md-3 > img {
+  float: left;
+  
+}
+
+.col-md-3 > p {
+  position: absolute;
+  font-size: 8px;
+  color: red;
+  margin-top: 83px;
+}
+.container4{
+  margin-top: -25px;
+  min-height: 400px; 
+}
+.container5>strong{
+  color: #3b8d33;
+  padding-left: 10px;
+  margin-top: 180px !important;
+}
+.container7 {
+  width: 546px;
+  height: 219px;
+  margin-right: 260px;
+  margin-top: -168px;
+  justify-content: space-between;
+  position: relative;
+}
+
+.container8 {
+  position: absolute;
+  font-size: 35px;
+  margin-top: -44px;
+  margin-left: 390px;
+}
+.container9{
+  position: absolute;
+  font-size: 35px;
+  margin-top: -49px;
+  margin-left: 370px
+}
+.container10{
+  position: absolute;
+  height: 20px;
+  width: 20px!important;
+  font-size: 35px;
+  margin-top: -289px;
+  margin-left: 15px;
+ 
+}
+.container11>img{
+  position: absolute;
+  margin-top: -32px;
+  margin-left: 10px;
+
+}
+.container11>p{
+  position: absolute;
+  margin-top: -32px;
+  margin-left: 40px; 
+  color: white;
+  font-size: 20px;
+}
+.container12{
+  position: absolute;
+  height: 20px;
+  width: 20px!important;
+  font-size: 35px;
+  margin-top: -289px;
+  margin-left: -362px !important;
+}
+.container13 {
+  position: relative;
+}
+
+.container13 > img {
+  position: relative;
+  display: block;
+  width: 220px;
+  height: 45px;
+  margin-top: 56px;
+}
+
+.container13 > strong {
+  position: absolute;
+  top: 0;
+  left:0;
+  margin-top: 10px;
+  margin-left: 670px;
+  color: rgb(254, 244, 244);
+  font-size: 17px;
+}
+
+.col {
+  background-image: url("Group\ 57.png");
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: 0 0;
+  width: 100%;
+  height: 100vh;
+  margin: 0;
+  padding: 0;
+  position: relative;
+  z-index: 1;
+}
+
+.cal {
+  margin-left: 690px;
+  margin-top: -45px;
+  position: absolute;
+  z-index: 2;
+}
+.cont {
+  color: #3b8d33;
+  padding-left: 675px;
+  padding-top: 25px;
+  font-size: 20px;
+}
+.col{
+  position: relative;
+}
+.contain{
+  position: absolute;
+  height: 320px;
+  width: 468px;
+ z-index: 2;
+ margin-top: 70px;
+ margin-left: 170px;
+ 
+}
+  
+.container14 {
+  position: relative;
+  z-index: 1;
+}
+
+.col {
+  position: relative;
+  z-index: 0;
+  /* add other styles as needed */
+}
+
+.container14 > img {
+  position: relative;
+  display: block;
+  width: 240px;
+  height: 45px;
+  margin-top: 90px;
+}
+
+.container14 > strong {
+  position: absolute;
+  top: 0;
+  left: 0;
+  margin-top: 10px;
+  margin-left: 656px;
+  color: rgb(254, 244, 244);
+  font-size: 17px;
+}
+.contain{
+  position: relative;
+  z-index: 0;
+}
+.consu{
+  position: absolute;
+  z-index: 1;
+  color: white;
+  font-size: 42px;
+  margin-left: 50px;
+  margin-top:200px
+}
+.consu>span{
+  position: absolute;
+  font-size: 20px;
+  color: #ffffff;
+  margin-left:20px;
+  margin-top: 10px;
+}
+.title {
+  position: absolute;
+  top: 10px;
+  right: -60px;
+  margin-right: -100px; /* Adjust this value to move the title further to the right */
+}
+.container19 {
+  
+  width: 120px;
+  height: 200px;
+  display: flex;
+  margin-top: 35px;
+  margin-left: 220px;
+}
+.toto{
+  background-color: #F5F5F5;
+}
